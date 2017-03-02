@@ -31,8 +31,6 @@ values."
    ;; List of configuration layers to load.
    dotspacemacs-configuration-layers
    '(
-     scheme
-     clojure
      html
      (ruby :variables
            ruby-enable-enh-ruby-mode t
