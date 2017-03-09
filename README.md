@@ -3,6 +3,6 @@ My personal dotfiles
 
 
 ## Credits 
-Here are some resources that ispired this setup:
+Here are some resources that inspired this setup:
 
-[Mathias’s dotfiles] (https://github.com/mathiasbynens/dotfiles)
+* [Mathias’s dotfiles] (https://github.com/mathiasbynens/dotfiles)
