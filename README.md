@@ -2,6 +2,7 @@
 My personal dotfiles
 
 
-## Here are some repositories that inspired this setup
+## Credits 
+Here are some resources that ispired this setup:
 
-https://github.com/mathiasbynens/dotfiles
+[Mathias’s dotfiles] (https://github.com/mathiasbynens/dotfiles)
