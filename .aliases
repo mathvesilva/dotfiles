@@ -13,3 +13,10 @@ alias sd='sh ~/dotfiles/bootstrap.sh'
 alias pj='cd ~/projects'
 alias ec='cd ~/projects/exercism'
 alias dl='cd ~/downloads'
+
+# arch linux
+alias puf='pacaur -Syu'
+alias pus='pacaur -Syyu --devel'
+alias pru='pacaur -Rns $(pacaur -Qttdq)'
+alias pro='pacaur -Sc'
+alias pqi='pacaur -s'
