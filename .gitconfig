@@ -1,3 +1,6 @@
 [user]
 	name = Matheus Silva
 	email = mathvesilva@gmail.com
+
+[color]
+	ui = auto
